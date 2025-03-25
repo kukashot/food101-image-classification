@@ -53,7 +53,7 @@ Build a Convolutional Neural Network (CNN) to classify images of food into 101 d
 1. Clone the repo
 2. Download and extract the Food-101 dataset from Kaggle
 3. Update the dataset path in the notebook
-4. Run the notebook: `Kunal_Katariya_Midterm_Food-101.ipynb`
+4. Run the notebook: `Kunal_Katariya_Food-101.ipynb`
 
 ---
 
@@ -69,5 +69,5 @@ Build a Convolutional Neural Network (CNN) to classify images of food into 101 d
 
 **Kunal Katariya**  
 M.S. in Information Systems, Pace University  
-Spring 2025 – Deep Learning Midterm Project
+Spring 2025 – Deep Learning Project
 
